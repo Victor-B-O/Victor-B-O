@@ -19,7 +19,7 @@
 ---
 
 ##  Ferramentas & Tecnologias
-🔬 Engenharia |  Python |  MATLAB |  Excel  
+🔬 Engenharia |  Python | Jupyter | MATLAB |  Excel  
 📊 Simulação |  Automação |  Modelagem |  LaTeX
 
 ---
