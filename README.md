@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou Victor Bernardes Ortolá! 👋
 
-<!--
-**Victor-B-O/Victor-B-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia Química — UFRJ**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+- Estudante de Engenharia Química na **UFRJ**, com interesse em:
+  - Processos químicos
+  - Pesquisa & Inovação
+  - Simulação e modelagem
+- Buscando desenvolver habilidades em programação científica e automação de processos.
+
+---
+
+##  Projetos
+- **Projeto** – Aplicação de reações substitutas para mecanismos cinéticos em catálise heterogênea.
+
+---
+
+##  Ferramentas & Tecnologias
+🔬 Engenharia |  Python |  MATLAB |  Excel  
+📊 Simulação |  Automação |  Modelagem |  LaTeX
+
+---
+
+##  Estatísticas GitHub
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Victor-B-O&show_icons=true&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-B-O&layout=compact&theme=dark)
+
+---
+
+##  Contato
+
+- [LinkedIn](https://www.linkedin.com/in/victor-bernardes-ortol%C3%A1-147a79257)  
+- [E-mail](mailto:seuemail@exemplo.com)  
+
+---
+
+*“Engenharia é aplicar a ciência de forma criativa.”*
